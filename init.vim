@@ -111,7 +111,7 @@
         Plug 'zchee/deoplete-jedi', { 'for': 'python' }
         Plug 'carlitux/deoplete-ternjs', { 'for': 'tern' }
 
-        Plug 'zchee/nvim-go', { 'do': 'make' }
+        " Plug 'zchee/nvim-go', { 'do': 'make' }
         Plug 'rking/ag.vim'
         " Plug 'Valloric/python-indent'
         " Plug 'tsukkee/unite-help'
@@ -123,14 +123,14 @@
         Plug 'fmoralesc/nlanguagetool.nvim'
         " Plug 'osyo-manga/vim-over'
         " Plug 'jasonlong/lavalamp'
-        Plug 'vimoutliner/vimoutliner', { 'dir': '~/.config/nvim/bundles/vimoutliner', 'do': './install.sh' }
+        " Plug 'vimoutliner/vimoutliner', { 'dir': '~/.config/nvim/bundles/vimoutliner', 'do': './install.sh' }
         " Plug 'h1mesuke/unite-outline'
         Plug 'sukima/xmledit' , { 'for': 'xml' }
         Plug 'tpope/vim-scriptease'
         Plug 'Blackrush/vim-gocode', { 'for': 'go' }
         " Plug 'zefei/vim-colortuner'
         Plug 'vim-scripts/VimClojure', { 'for': 'clojure' }
-        Plug 'billyvg/node-host', { 'do': 'npm install' }
+        " Plug 'billyvg/node-host', { 'do': 'npm install' }
         " Plug 'billyvg/jsimport.nvim'
         " Plug 'baskerville/vim-quirks'
         " Plug 'jalvesaq/vimcmdline'
