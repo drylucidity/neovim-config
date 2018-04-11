@@ -1,0 +1,15 @@
+bundles/*
+.backupdir/*
+custom/*
+undo/*
+pluginhosts
+.python-version
+.unite*
+.netrwhist
+tags
+viki
+log
+messages
+init.vim.bak
+init.vim.lightline
+runtime
