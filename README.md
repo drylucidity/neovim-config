@@ -1,5 +1,7 @@
 # My NeoVim config
 
+#OBSOLECENT
+
 ### Warning: here be Dragons!!!
 
 This is my personal neovim config. It is very dissorganized and ugly, but it
